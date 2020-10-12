@@ -1,0 +1,23 @@
+_model: software
+---
+name_software: Opera
+---
+created_date: 1995-01-01
+---
+description:
+
+Opera est un navigateur web gratuit et multiplateforme développé par la société norvégienne Opera Software, qui propose plusieurs logiciels relatifs à Internet.
+
+Opera est un navigateur relativement peu utilisé par rapport aux autres navigateurs web, totalisant environ 4% de parts de marché selon StatCounter, et environ 6,5% en environnement mobile. Depuis sa version 15 en 2013, Opera utilise le moteur de rendu HTML Blink (contre Presto précédemment).
+---
+developped_by: Opera Software
+---
+language: Multi-langage
+---
+license: Gratuiciel avec des composants Open source2
+---
+official_link: https://www.opera.com/fr
+---
+requirements: Windows, macOS, Linux, iOS
+---
+automatique_description: yes

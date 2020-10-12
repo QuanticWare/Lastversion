@@ -1,0 +1,24 @@
+_model: software
+---
+name_software: MariaDB
+---
+_discoverable: yes
+---
+description:
+
+MariaDB est un système de gestion de base de données édité sous licence GPL. 
+Il s'agit d'un fork communautaire de MySQL : la gouvernance du projet est assurée par la fondation MariaDB17, 
+et sa maintenance par la société Monty Program AB, créateur du projet18. 
+Cette gouvernance confère au logiciel l’assurance de rester libre.
+---
+created_date: 2009-10-29
+---
+developped_by: MariaDB Corporation AB , Michael Widenius et MariaDB Foundation
+---
+language: Anglais
+---
+license: Licence publique générale GNU et licence publique générale limitée GNU
+---
+official_link: https://mariadb.org/
+---
+automatique_description: yes

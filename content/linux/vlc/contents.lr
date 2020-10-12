@@ -1,0 +1,21 @@
+_model: software
+---
+name_software: VLC
+---
+created_date: 1996-01-01
+---
+description: VLC media player (VLC) est un lecteur multimédia français, libre et gratuit issu du projet VideoLAN. Ce logiciel est multiplateforme et fonctionne sous Windows, GNU/Linux, BSD, macOS, iOS, Android, soit en tout près de 20 plates-formes. Il est distribué sous licence GNU GPL.
+---
+developped_by: VideoLAN
+---
+language:
+
+Multi-langage 
+---
+license: GPL-2.0, certaines bibliothèques sous LGPL-2.1
+---
+official_link: https://www.videolan.org/vlc/download-windows.fr.html
+---
+requirements: Linux, Microsoft Windows, macOS, Berkeley Software Distribution, BeOS, Android, iOS, Chrome OS, Solaris, Syllable, FreeBSD, NetBSD, OpenBSD, QNX et OS/2
+---
+automatique_description: yes

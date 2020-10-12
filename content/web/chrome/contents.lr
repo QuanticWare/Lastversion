@@ -1,0 +1,23 @@
+_model: software
+---
+name_software: Google Chrome
+---
+created_date: 2008-09-02
+---
+description: Chrome est un navigateur web propriétaire développé par Google basé sur le projet libre Chromium fonctionnant sous Windows, Mac, Linux, Android et iOS. Chromium est similaire à Chrome, mais ce dernier contient des mouchards envoi d'informations personnelles vers un serveur de Google ou pisteurs.
+---
+developped_by: Google
+---
+language:
+
+Multi-langages 
+---
+license: Gratuiciel
+---
+official_link: https://www.google.com/chrome/
+---
+requirements:
+
+Windows, macOS, linux, iOS, Androïde, ChromeOS 
+---
+automatique_description: yes

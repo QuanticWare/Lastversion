@@ -1,0 +1,21 @@
+_model: software
+---
+name_software: FileZilla
+---
+created_date: 2001-06-22
+---
+description: FileZilla Client (FileZilla) est un client FTP, FTPS et SFTP, développé sous la licence publique générale GNU. Il est intégré à la liste des logiciels libres préconisés par l’État français dans le cadre de la modernisation globale de ses systèmes d’informations (S.I.).
+---
+developped_by: Tim Kosse
+---
+language:
+
+Multi-langages 
+---
+license: Licence publique générale GNU version 2 et licence publique générale GNU
+---
+official_link: https://filezilla-project.org/
+---
+requirements: Linux, Windows, macOS
+---
+automatique_description: yes

@@ -1,0 +1,21 @@
+_model: software
+---
+name_software: Firefox
+---
+created_date: 2002-09-23
+---
+description: est un navigateur web libre et gratuit, développé et distribué par la Mozilla Foundation avec l'aide de milliers de bénévoles grâce aux méthodes de développement du logiciel libre/open source et à la liberté du code source.
+---
+developped_by: Mozilla Corporation et Mozilla Foundation
+---
+language: Multi-langage (95 langues)
+---
+license: MPL 2.0
+---
+official_link: https://www.mozilla.org/fr/firefox/new/
+---
+requirements:
+
+Windows, macOS, linux, Androïde 
+---
+automatique_description: yes
