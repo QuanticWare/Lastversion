@@ -1,6 +1,6 @@
 _model: software
 ---
-name_software: Outlook
+name_software: Microsoft Outlook
 ---
 created_date: 1991-12-01
 ---
@@ -18,4 +18,4 @@ official_link:
 ---
 requirements: Windows, MacOS
 ---
-automatique_description: no
+automatique_description: yes
