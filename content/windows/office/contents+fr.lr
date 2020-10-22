@@ -1,0 +1,11 @@
+_model: softwarefr
+---
+name_software: Microsoft Office
+---
+description:
+
+Microsoft Office est une suite bureautique propriété de la société Microsoft fonctionnant avec les plates-formes fixes et mobiles. <br/>
+Elle s'installe sur ordinateur et fournit une suite de logiciels comme : <br/>
+Word, Excel, PowerPoint, OneNote, Outlook, Access et/ou Publisher selon les suites choisies.
+---
+automatique_description: yes

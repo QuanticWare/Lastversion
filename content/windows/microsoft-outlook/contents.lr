@@ -1,0 +1,21 @@
+_model: software
+---
+name_software: Microsoft Outlook
+---
+automatique_description: yes
+---
+created_date: 1995-07-04
+---
+developped_by: Microsoft
+---
+language:
+
+Multi-langages 
+---
+license: Propriétaire
+---
+official_link: https://www.microsoft.com/fr-fr/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
+---
+requirements: Windows, MacOS
+---
+last_version: 4.47.0

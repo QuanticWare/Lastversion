@@ -1,0 +1,27 @@
+_model: softwarefr
+---
+name_software: Ubuntu  système d'exploitation
+---
+description:
+
+Ubuntu est un système d’exploitation GNU/Linux basé sur la distribution Linux Debian. Il est développé, commercialisé et maintenu pour les ordinateurs individuels (desktop), les serveurs (Server) et les objets connectés (Core) par la société Canonical.
+
+Ubuntu se définit comme « un système d'exploitation utilisé par des millions de PC à travers le monde et avec une interface « simple, intuitive, et sécurisée. Elle est la distribution la plus consultée sur Internet d'après le site Alexa7, et le système d'exploitation le plus utilisé sur les systèmes Cloud ainsi que sur les serveurs informatiques.
+
+
+---
+developped_by: Ubuntu Foundation
+---
+language:
+
+Multi-langages 
+---
+requirements: Aucuns
+---
+created_date: 2004-10-20
+---
+license: Multiples (Principalement GNU GPL)
+---
+official_link: https://ubuntu-fr.org/
+---
+automatique_description: no

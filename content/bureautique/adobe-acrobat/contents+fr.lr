@@ -1,0 +1,19 @@
+_model: softwarefr
+---
+name_software: Adobe Acrobat
+---
+description: Le programme Adobe Acrobat Reader DC (auparavant appelé Adobe Acrobat Reader, puis Adobe Reader) est disponible gratuitement sur le site Web d'Adobe et permet l'affichage et l'impression des fichiers PDF.
+---
+developped_by: Adobe
+---
+requirements: Windows, macOS, Androïde, IOS
+---
+language: Multi-langage
+---
+license: Licence propriétaire
+---
+official_link: https://get.adobe.com/fr/reader/otherversions/
+---
+created_date: 1993-06-01
+---
+automatique_description: yes

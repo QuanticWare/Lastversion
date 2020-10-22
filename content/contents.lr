@@ -2,6 +2,14 @@ _model: home
 ---
 title: Home
 ---
-body:
+text2:
+
+The most popular software: 
 ---
-text_top: Bienvenue sur Last Version
+body: 
+---
+text_top: Welcome to Last Version
+---
+_hidden: no
+---
+_slug: 

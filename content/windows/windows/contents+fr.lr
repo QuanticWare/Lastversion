@@ -1,0 +1,21 @@
+_model: softwarefr
+---
+name_software: Windows
+---
+description: Windows Écouter est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.
+---
+created_date: 1985-11-20
+---
+developped_by: Microsoft Corporation
+---
+language:
+
+Anglais, multi-langage 
+---
+license: Microsoft EULA
+---
+official_link: https://www.microsoft.com/fr-fr/windows
+---
+requirements: Aucuns
+---
+automatique_description: yes

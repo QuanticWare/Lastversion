@@ -1,0 +1,25 @@
+_model: softwarefr
+---
+name_software: Photoshop
+---
+created_date: 1990-02-19
+---
+description:
+
+Photoshop est un logiciel de retouche, de traitement et de dessin assisté par ordinateur, lancé en 1990 sur MacOS puis en 1992 sur Windows.
+
+Édité par Adobe, il est principalement utilisé pour le traitement des photographies numériques, mais sert également à la création ex nihilo d’images.
+
+Il travaille essentiellement sur images matricielles car les images sont constituées d’une grille de points appelés pixels. L’intérêt de ces images est de reproduire des gradations subtiles de couleurs.
+---
+developped_by: Adobe
+---
+language: Anglais, multi-langages
+---
+license: Shareware, freemium et logiciel en tant que service
+---
+requirements: Windows, MacOS, iPadOS
+---
+official_link: https://www.adobe.com/fr/products/photoshop.html
+---
+automatique_description: yes

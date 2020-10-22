@@ -1,4 +1,4 @@
-_model: software
+_model: softwarefr
 ---
 name_software: Visual Studio Code
 ---
@@ -24,4 +24,4 @@ official_link: https://code.visualstudio.com/
 ---
 requirements: Windows, Linux, macOS
 ---
-automatique_description: no
+automatique_description: yes

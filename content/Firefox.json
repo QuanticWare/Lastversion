@@ -1,0 +1,22 @@
+[
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "Linux", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "Linux", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "Microsoft Windows", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "Microsoft Windows", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "macOS", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "macOS", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "Android", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": "Android", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": null, "date": "2002-09-23"}]},
+{"software": [{"lastversion": "0.1 (", "developper": "Mozilla Corporation", "requirements": null, "date": "2020-10-19"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "Linux", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "Linux", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "Microsoft Windows", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "Microsoft Windows", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "macOS", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "macOS", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "Android", "date": "2002-09-23"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": "Android", "date": "2020-10-19"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": null, "date": "2002-09-23"}]},
+{"software": [{"lastversion": "82.0 (", "developper": "Mozilla Corporation", "requirements": null, "date": "2020-10-19"}]}
+]

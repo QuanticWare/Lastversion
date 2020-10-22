@@ -1,0 +1,21 @@
+_model: software
+---
+name_software: Skype
+---
+automatique_description: yes
+---
+created_date: 2004-08-01
+---
+developped_by: Microsoft
+---
+language:
+
+Multi-langage 
+---
+last_version: 8.59.0.77
+---
+license: Freemium
+---
+official_link: https://www.skype.com/en/
+---
+requirements: Windows, Linux, MacOS, IOS, Androïde

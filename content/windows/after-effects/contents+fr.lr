@@ -1,0 +1,25 @@
+_model: softwarefr
+---
+name_software: After Effects
+---
+created_date: 1993-01-01
+---
+description:
+
+Adobe After Effects ou After Effects est un logiciel, à l'origine, de montage vidéo qui est devenu par la suite un outil de composition (compositing en anglais) et d'effets visuels, pionnier de l'animation graphique sur ordinateur personnel, édité par la société Adobe Systems.
+
+Ce logiciel permet de créer des effets spéciaux et des animations graphiques pour tous supports et à partir de nombreux types de sources. La version actuelle (18.0) s'appelle « After Effects CC 2020  » (CC pour Creative Cloud).
+---
+developped_by: Adobe
+---
+language:
+
+Anglais, Multi-langage 
+---
+license: Licence propriétaire et logiciel en tant que service
+---
+official_link: https://www.adobe.com/fr/products/aftereffects.html
+---
+requirements: Windows, MacOS
+---
+automatique_description: yes
